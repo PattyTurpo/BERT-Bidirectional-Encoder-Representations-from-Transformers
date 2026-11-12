@@ -1,6 +1,5 @@
 # Proyecto BERT: Clasificación de sentimiento en IMDB
 
-**Curso:** Aprendizaje Profundo Aplicado
 **Autor:** Turpo Quispe Patty Milagros
 **Fecha:** 12 de noviembre de 2026
 
